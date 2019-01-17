@@ -1,15 +1,14 @@
 import React, { Component } from 'react';
 import '../App.scss';
 
-class Login extends Component {
+class Home extends Component {
   render() {
     return (
       <div className="App">
-        Login page
-        <input type='text' />
+        Home
       </div>
     );
   }
 }
 
-export default Login;
+export default Home;
