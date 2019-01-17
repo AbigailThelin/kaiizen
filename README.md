@@ -1,9 +1,4 @@
-Steps for this project:
-
-I used React as my Framework, Redux for state managment, Thunk for middleware, Axios for my requests, SCSS for styling, Git for version control, and Zeit for hosting. 
-
-I wanted to make this app as scalable as possible. I kept all of my state in redux for a single source of truth, and if I wanted to expand this app, doing so would be very easy. 
-
+Kaiizen admin site
 
 ## Available Scripts
 
